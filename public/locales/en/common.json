@@ -1,0 +1,15 @@
+{
+  "title": "Hello i18next-ssg!",
+  "people": {
+    "arya": "Arya",
+    "sansa": "Sansa"
+  },
+  "arya": {
+    "title": "Hi I'm Arya",
+    "target": "My sister is <1>Sansa</1>"
+  },
+  "sansa": {
+    "title": "Hi I'm Sansa",
+    "target": "My sister is <1>Arya</1>"
+  }
+}

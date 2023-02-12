@@ -1,0 +1,1 @@
+{"c":["webpack"],"r":["pages/[[...paths]]"],"m":["./node_modules/next/dist/build/webpack/loaders/next-client-pages-loader.js?absolutePagePath=%2Fproject%2Fsandbox%2Fpages%2F%5B%5B...paths%5D%5D.tsx&page=%2F%5B%5B...paths%5D%5D!","./pages/[[...paths]].tsx"]}
