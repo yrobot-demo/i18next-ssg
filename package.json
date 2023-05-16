@@ -11,7 +11,7 @@
     "@types/react": "18.0.25",
     "autoprefixer": "10.4.13",
     "i18next": "^22.4.15",
-    "i18next-ssg": "^3.0.2",
+    "i18next-ssg": "^3.0.3",
     "next": "^13.4.2",
     "next-i18next": "^13.2.2",
     "postcss": "8.4.19",

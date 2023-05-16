@@ -363,10 +363,10 @@ i18next-fs-backend@^2.1.1:
   resolved "https://registry.npmjs.org/i18next-fs-backend/-/i18next-fs-backend-2.1.1.tgz#07c6393be856c5a398e3dfc1257bf8439841cd89"
   integrity sha512-FTnj+UmNgT3YRml5ruRv0jMZDG7odOL/OP5PF5mOqvXud2vHrPOOs68Zdk6iqzL47cnnM0ZVkK2BAvpFeDJToA==
 
-i18next-ssg@^3.0.2:
-  version "3.0.2"
-  resolved "https://registry.npmjs.org/i18next-ssg/-/i18next-ssg-3.0.2.tgz#5223c4f356b01ece47d6b6e3d881e6a8cca57a70"
-  integrity sha512-LmRjnyus9OWDlfXDVAq08LHrsOtibdOCk/8psQZRvpn9vHho8lMruJR7iJ0jCqHf3lDZ3HwEeSq3dt7Evm3+rQ==
+i18next-ssg@^3.0.3:
+  version "3.0.3"
+  resolved "https://registry.npmjs.org/i18next-ssg/-/i18next-ssg-3.0.3.tgz#9fa125b3fb53011dad799d9b86be02ec7f5df473"
+  integrity sha512-Xcr/MwPw754PG2bal7wLR5ic0IS0JmW5OSX+aQIt/D8ilOAFz137MdfuR1VwmV5brabCPi+Ds/Bup4vu612smQ==
 
 i18next@^22.4.15:
   version "22.4.15"
