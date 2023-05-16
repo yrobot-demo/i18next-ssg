@@ -1,0 +1,8 @@
+# Node artifact files
+node_modules/
+dist/
+out/
+build/
+
+# Nextjs dev output
+.next
